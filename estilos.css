@@ -49,11 +49,13 @@ a:hover {
 
 body {
     width: 1250px;
-    background:#808080;
     margin-right: 50px;  
     margin-left: 50px; 
     margin-bottom: 50px;
     margin-top: 50px;
+    background-image: url("https://images3.alphacoders.com/822/822224.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 img {
