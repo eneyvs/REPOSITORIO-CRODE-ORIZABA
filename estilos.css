@@ -1,8 +1,9 @@
 h1{
     font-size: 50px;
     font-family: sans-serif;
-    background: #20b2aa;
-    color:white;
+    background-image: url("./img/CRODE.jpg" ); height:132px; width: 1200px;
+      background-repeat: no-repeat;  
+    color:black;
 }
 
 h2 {
@@ -16,11 +17,13 @@ h3 {
     color:black;
     vertical-align: bottom;
     width: 900px;
+     text-align: justify;
 }
 
 p {
     font-size: 20px;
     font-family: sans-serif;
+     text-align: justify;
 }
 
 li {
