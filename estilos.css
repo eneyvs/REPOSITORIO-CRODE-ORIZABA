@@ -2,7 +2,7 @@ h1{
     font-size: 50px;
     font-family: sans-serif;
     background-image: url("./img/CRODE.jpg" ); height:132px; width: 1200px;
-      background-repeat: no-repeat;  
+     background-repeat: no-repeat;  
     color:black;
 }
 
@@ -23,7 +23,7 @@ h3 {
 p {
     font-size: 20px;
     font-family: sans-serif;
-     text-align: justify;
+    text-align: justify;
 }
 
 li {
