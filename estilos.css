@@ -1,8 +1,10 @@
 h1{
     font-size: 50px;
     font-family: sans-serif;
-    background: #20b2aa;
-    color:white;
+    background-image: url("./img/CRODE.jpg" ); height:132px; width: 1200px;
+      background-repeat: no-repeat;  
+    color:black;
+    
 }
 
 h2 {
@@ -16,18 +18,21 @@ h3 {
     color:black;
     vertical-align: bottom;
     width: 900px;
+    text-align: justify;
 }
 
 p {
     font-size: 20px;
     font-family: sans-serif;
+    text-align: justify;
 }
 
-li {
+.menu li {
     font-size: 28px;
     font-family: sans-serif;
     list-style: none;
     padding: 5px 5px 5px 5px;
+    display: "inline-block";
 }
 
 a {
@@ -49,15 +54,22 @@ a:hover {
 
 body {
     width: 1250px;
-    background:#808080;
+    
     margin-right: 50px;  
     margin-left: 50px; 
     margin-bottom: 50px;
     margin-top: 50px;
+    background-image: url("https://images3.alphacoders.com/822/822224.jpg");
+    height:300px;
+    width: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
+
 
 img {
     vertical-align: bottom;
     align:"right";
     width: 400px; height: 200px;
 }
+
