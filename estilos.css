@@ -72,7 +72,7 @@ body {
 
 img {
     vertical-align: bottom;
-    align:"right";
+    box-align:"right";
     width: 400px; height: 200px;
 }
 
