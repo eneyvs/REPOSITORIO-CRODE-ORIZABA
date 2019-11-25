@@ -62,11 +62,11 @@ body {
     margin-left: 50px; 
     margin-bottom: 50px;
     margin-top: 50px;
-    background-image: url("https://images3.alphacoders.com/822/822224.jpg");
-    height:300px;
+    background: url("./img/madera.jpg");
+    background-repeat: repeat;
+    height: auto;
     width: auto;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    
 }
 
 
